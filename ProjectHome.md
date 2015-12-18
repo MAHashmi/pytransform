@@ -1,0 +1,3 @@
+QVT language and tools are not easy to use in agile, an incremental and test-driven development environments. For example, many implementations for transformations language are not designed to allow tests that create test data and checks the values of the resulting models.
+
+PyTransform offers a set of classes and methods with a semantic similar to QVT to write transformations in a QVT style but providing the power and flexibility of Python.
